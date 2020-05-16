@@ -7,5 +7,7 @@ public class SergiiClass {
 		System.out.println("Hi");
 		System.out.println("Good work");
 		
+		System.out.println("practicing");
+		
 	}
 }
