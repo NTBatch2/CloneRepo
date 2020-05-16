@@ -7,6 +7,8 @@ public class StashPractice {
 	
 	public static void main(String[] args) {
 		//stash....
+<<<<<<< HEAD
+=======
 		int a = 10;
 		int b= 20;
 		
@@ -21,8 +23,12 @@ public class StashPractice {
     public void print () {
 	System.out.println("lULU");
 	System.out.println("Sdet");
+>>>>>>> branch 'master' of https://github.com/NTBatch2/CloneRepo.git
 	}
 //	System.out.println("SDET Class");
 	//Stash Practice
 	//...
 }
+//Robin
+//This is a line of code 
+//Again....................................................
