@@ -6,13 +6,6 @@ public class StashPractice {
 	}
 
 	public static void main(String[] args) {
-
-	}
-
-
-	public void print() {
-		System.out.println("lULU");
-		System.out.println("Sdet");
-	}
-
+		//stash....
+}
 }
