@@ -15,6 +15,12 @@ public class StashPractice {
 		} else {
 			System.out.println("Not equal");
 		}
+
+}
+     //adding my name
+    public void print () {
+	System.out.println("lULU");
+	System.out.println("Sdet");
 	}
 //	System.out.println("SDET Class");
 	//Stash Practice
