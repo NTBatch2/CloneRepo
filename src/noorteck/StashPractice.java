@@ -4,10 +4,33 @@ public class StashPractice {
 	public static void getName() {
 		System.out.println("GithUb Commit");
 	}
-
+//sdet
 	public static void main(String[] args) {
+
+		//stash....
+
+		int a = 10;
+		int b= 20;
+		
+		if(a == b ) {
+			System.out.println("They Are equal");
+		} else {
+			System.out.println("Not equal");
+		}
+
+
+}
+     //adding my name
+    public void print () {
+	System.out.println("lULU");
+	System.out.println("Sdet");
+
+	}
+//	System.out.println("SDET Class");
+	//Stash Practice
 		//stash....
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
      //adding my name
     public void print () {
@@ -24,4 +47,9 @@ public class StashPractice {
 //Again....................................................
 =======
 }
+>>>>>>> branch 'master' of https://github.com/NTBatch2/CloneRepo.git
+=======
+//Robin
+//This is a line of code 
+//Again....................................................
 >>>>>>> branch 'master' of https://github.com/NTBatch2/CloneRepo.git
