@@ -1,24 +1,14 @@
 package noorteck;
 
 public class StashPractice {
-	public static void getName(){
+	public static void getName() {
 		System.out.println("GithUb Commit");
 	}
-	
+
 	public static void main(String[] args) {
 		//stash....
-<<<<<<< HEAD
-=======
-		int a = 10;
-		int b= 20;
-		
-		if(a == b ) {
-			System.out.println("They Are equal");
-		} else {
-			System.out.println("Not equal");
-		}
-
 }
+<<<<<<< HEAD
      //adding my name
     public void print () {
 	System.out.println("lULU");
@@ -32,3 +22,6 @@ public class StashPractice {
 //Robin
 //This is a line of code 
 //Again....................................................
+=======
+}
+>>>>>>> branch 'master' of https://github.com/NTBatch2/CloneRepo.git
