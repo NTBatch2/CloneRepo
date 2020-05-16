@@ -4,7 +4,7 @@ public class StashPractice {
 	public static void getName() {
 		System.out.println("GithUb Commit");
 	}
-
+//sdet
 	public static void main(String[] args) {
 
 		//stash....
@@ -28,6 +28,7 @@ public class StashPractice {
 	}
 //	System.out.println("SDET Class");
 	//Stash Practice
+		//stash....
 }
 //Robin
 //This is a line of code 
