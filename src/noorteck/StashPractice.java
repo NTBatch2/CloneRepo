@@ -18,6 +18,7 @@ public class StashPractice {
 			System.out.println("Not equal");
 		}
 
+		// System.out.println("Ali");
 
 }
      //adding my name
