@@ -19,6 +19,9 @@ public class StashPractice {
 		}
 
 		// System.out.println("Ali");
+		
+	public void geNum(int a, int b) {
+		System.out.println(a + b);
 
 }
      //adding my name
